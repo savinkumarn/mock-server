@@ -1,0 +1,24 @@
+{
+  "name": "mock-server",
+  "version": "1.0.0",
+  "description": "A node based api server to mock responses for UI development",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savinkumarn/mock-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savinkumarn/mock-server/issues"
+  },
+  "homepage": "https://github.com/savinkumarn/mock-server#readme",
+  "dependencies": {
+    "mockserver-client": "^5.15.0",
+    "mockserver-node": "^5.15.0"
+  }
+}

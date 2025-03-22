@@ -1,0 +1,16 @@
+{
+    "request": {
+        "method": "GET",
+        "path": "/api/v1/data"
+    },
+    "response": {
+        "statusCode": 200,
+        "body": "{\"message\": \"This is a mock response!\"}",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "values": ["application/json"]
+            }
+        ]
+    }
+}

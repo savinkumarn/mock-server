@@ -1,0 +1,17 @@
+{
+    "request": {
+        "method": "POST",
+        "path": "/api/v1/data",
+        "body": "{\"name\": \"John Doe\"}"
+    },
+    "response": {
+        "statusCode": 201,
+        "body": "{\"message\": \"Data created successfully!\"}",
+        "headers": [
+            {
+                "name": "Content-Type",
+                "values": ["application/json"]
+            }
+        ]
+    }
+}

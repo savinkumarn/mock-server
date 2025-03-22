@@ -1,2 +1,2 @@
 # mock-server
-A python based api server to mock responses for UI development
+A node based api server to mock responses for UI development
